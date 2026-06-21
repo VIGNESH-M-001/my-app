@@ -164,6 +164,3 @@ The application connects to an AWS Lambda API for data:
 
 This project is part of a frontend assessment.
 
-## 👥 Support
-
-For issues or questions, please review the component structure and API integration details in the source code.
