@@ -1,0 +1,63 @@
+.details-page {
+  padding: 40px;
+  background: #f8fafc;
+  min-height: 100vh;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #6366f1;
+  font-size: 14px;
+}
+
+.page-title {
+  margin-top: 24px;
+  font-size: 42px;
+  color: #0f172a;
+}
+
+.page-description {
+  color: #64748b;
+  margin-bottom: 30px;
+}
+
+.details-card {
+  background: white;
+  border-radius: 16px;
+  padding: 32px;
+  max-width: 700px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.08);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.service-badge {
+  background: #eef2ff;
+  color: #6366f1;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.detail-row {
+  display: flex;
+  padding: 18px 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.detail-row span {
+  width: 180px;
+  color: #94a3b8;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.detail-row p {
+  margin: 0;
+  font-weight: 600;
+  color: black;
+}

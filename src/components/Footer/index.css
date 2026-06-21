@@ -1,0 +1,35 @@
+.footer-section {
+  margin-top: 40px;
+  padding: 20px;
+  border-top: 1px solid #e5e7eb;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: white;
+}
+
+.brand-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  color: #475569;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #64748b;
+  font-size: 14px;
+}

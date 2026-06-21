@@ -1,0 +1,21 @@
+.summary-subContainer{
+    display: flex;
+}
+.summary-card{
+    background-color: rgb(248, 252, 255);
+    border: 1px solid rgb(204, 205, 206);
+    padding: 20px;
+    width: 400px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color:  #64748b;
+}
+.summary-servicedata{
+    color: blue;
+    font-size:25px ;
+}
+.summary-data{
+    color: black;
+    font-size: 25px;
+}

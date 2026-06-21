@@ -1,0 +1,11 @@
+.pageNotFound-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.dashboard-link{
+    text-decoration: none;
+    color: blue;
+}

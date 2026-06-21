@@ -1,0 +1,35 @@
+.referral-subcontainer{
+    display: flex;
+    margin-top: 20px;
+    color:  #64748b;
+    
+   
+}
+
+.referral-input{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+    
+}
+
+.referral-input input{
+    width: 450px;
+    margin-right: 10px;
+    height: 48px;
+     border: 1px solid rgb(204, 205, 206);
+     background-color:  rgb(248, 252, 255);;
+    border-radius: 10px;
+
+
+}
+
+.referral-input button{
+    color: white;
+    border-radius: 10px;
+    background-color: blue;
+    border: none;
+    outline: none;
+    height: 45px;
+    width: 80px;
+}
